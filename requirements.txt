@@ -3,3 +3,4 @@ pkce
 cryptography
 curl-cffi
 python-dotenv
+discord.py
