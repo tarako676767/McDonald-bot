@@ -1,0 +1,5 @@
+requests
+pkce
+cryptography
+curl-cffi
+python-dotenv
