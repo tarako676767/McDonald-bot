@@ -2,5 +2,6 @@ requests
 pkce
 cryptography
 curl-cffi
-python-dotenv
 discord.py
+python-dotenv
+Flask
